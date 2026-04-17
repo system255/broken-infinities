@@ -1,3 +1,7 @@
+# Broken Infinities C++: A project made to go past infinity and surpass ExpantaNum.
+ Types:
+ Break Eternity, line 5
+
 # Break Eternity C++ Version
 A recreation of break_eternity .js but instead of using javascript it uses C++, which supports numbers to 10^^(2^1024).
 
@@ -31,7 +35,7 @@ the 400 is the value, so {3, 300} will be eee300.
 12. ISEQUAL: Input two variables, and depending on what you put there, it will return 0 or 1 (false or true)
 13. ISHIGHER: Input two variables, and says if a > b is true or false. To recreate ">=", you need to use isHigher && isEqual for now.
 14. ISLOWER: Input two variables, and it says the exact opposite of isHigher.
-15. SLOG: The opposite of tetration, but it's sadly slightly inaccurate. Will be fixed later
+15. SLOG: The opposite of tetration
 16. EXP-FACTORIAL (NEW): This is exponential factorial, which instead of doing n*(n-1)*(n-2)... n times ...*1 it does n^(n-1)^(n-2)... n times ...^1
 17. LAYER-ADD: Adds any value to the layer. (must be a double)
 18. LAYER-MULTI: Multiplies the layer by a double.
@@ -39,9 +43,9 @@ the 400 is the value, so {3, 300} will be eee300.
 20. EPOW: literally pow(e, number)
 21. SQRT: literally pow(number, 0.5)
 
-# Stuff to fix
-1. Slog inaccuracy: Results may be off, like it was once tested, it said ~2.84 where it had to be ~2.89.
-
 # Extras
 The code comes with a calculator, ready for you to test. If you can, tell me if there's any issues except for slog inaccuracy.
 There's a Infinity detector which just returns Omega.
+
+# Extension of BreakEternity?
+# Coming soon.
