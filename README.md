@@ -1,7 +1,4 @@
-# Broken Infinities C++: A project made to go past infinity and surpass ExpantaNum.
- Types:
- Break Eternity, line 5
-
+# Broken Infinities C++: EternityNum
 # Break Eternity C++ Version
 A recreation of break_eternity .js but instead of using javascript it uses C++, which supports numbers to 10^^(2^1024).
 
