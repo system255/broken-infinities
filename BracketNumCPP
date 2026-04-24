@@ -1,0 +1,14 @@
+//Coming soon!
+//Yeah so this will make it go to 10{1.79e308}10, but this is currently a placeholder!!!
+//im going to make this cpp real quick
+
+//Latest Update (24.04.2026): Pentation
+
+#include <iostream>
+using namespace std;
+
+int main(){
+  float x = 2.763;
+  float y = 3.141;
+  cout<<(x+y)<<endl; //should cout 5.904 i think
+}
