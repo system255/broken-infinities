@@ -45,4 +45,4 @@ The code comes with a calculator, ready for you to test. If you can, tell me if 
 There's a Infinity detector which just returns Omega.
 
 # Extension of BreakEternity?
-# Coming soon.
+# Coming soon. (Check BracketNumCPP.cpp)
